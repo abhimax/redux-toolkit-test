@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+
+## Redux , Redux-Toolkit Playground
+In This Project I study core concept about Redux.  Also compare   Redux The Context API and made a research on it. Also compared Redux-toolkit features and learned best practices.  
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
